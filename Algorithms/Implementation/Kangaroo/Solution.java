@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Solution {
 
     static String kangaroo(int x1, int v1, int x2, int v2) {
-
+        /*
         boolean isMeet = false;
         
         while (x1 < x2) {
@@ -17,6 +17,12 @@ public class Solution {
         }
 
         return isMeet ? "YES" : "NO";
+        */
+        if ((v1 <= v2) || ((x2 - x1) % (v1 - v2) != 0)) {
+            return "NO";
+        } else {
+            return "YES";
+        }
     }
 
     public static void main(String[] args) {
