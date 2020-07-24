@@ -1,0 +1,13 @@
+## Algorithms/Implementation
+|순서|문제|풀이|
+|---|---|---|
+|1|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Grading%20Students/Solution.java)|
+|2|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Apple%20and%20Orange/Solution.java)|
+|3|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Kangaroo/Solution.java)|
+|4|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Between%20Two%20Sets/Solution.java)|
+|5|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Breaking%20the%20Records/Solution.java)|
+|6|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Birthday%20Chocolate/Solution.java)|
+|7|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java)|
+|8|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Migratory%20Birds/Solution.java)|
+|9|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.java)|
+|10|[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Bon%20Appetit/Solution.java)|
