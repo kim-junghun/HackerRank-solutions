@@ -10,3 +10,4 @@
 |7|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Loops%20II/Solution.java)|
 |8|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Datatypes/Solution.java)|
 |9|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20End-of-file/Solution.java)|
+|10|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Static%20Initializer%20Block/Solution.java)|
