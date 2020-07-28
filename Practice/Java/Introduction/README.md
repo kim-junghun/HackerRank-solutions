@@ -11,3 +11,4 @@
 |8|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Datatypes/Solution.java)|
 |9|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20End-of-file/Solution.java)|
 |10|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Static%20Initializer%20Block/Solution.java)|
+|11|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Introduction/Java%20Int%20to%20String/Solution.java)|
