@@ -13,3 +13,4 @@
 |10|[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Bon%20Appetit/Solution.java)|
 |11|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Sock%20Merchant/Solution.java)|
 |12|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Drawing%20Book/Solution.java)|
+|13|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Counting%20Valleys/Solution.java)|
