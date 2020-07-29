@@ -11,3 +11,4 @@
 |8|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Migratory%20Birds/Solution.java)|
 |9|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.java)|
 |10|[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Bon%20Appetit/Solution.java)|
+|11|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Sock%20Merchant/Solution.java)|
