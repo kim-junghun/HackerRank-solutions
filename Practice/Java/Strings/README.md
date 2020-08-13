@@ -8,3 +8,4 @@
 |5|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Strings/Java%20Anagrams/Solution.java)|
 |6|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Strings/Java%20String%20Tokens/Solution.java)|
 |7|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Strings/Pattern%20Syntax%20Checker/Solution.java)|
+|8|[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Java/Strings/Java%20Regex/Solution.java)|
