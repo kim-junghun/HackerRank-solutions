@@ -17,3 +17,4 @@
 |14|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Electronics%20Shop/Solution.java)|
 |15|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)|
 |16|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Forming%20a%20Magic%20Square/Solution.java)|
+|17|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Picking%20Numbers/Solution.java)|
