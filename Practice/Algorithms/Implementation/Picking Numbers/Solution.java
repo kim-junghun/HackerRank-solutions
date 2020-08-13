@@ -10,8 +10,10 @@ import java.util.Scanner;
 public class Solution {
 
     static int pickingNumbers(List<Integer> a) {
+        
         int result = 0;
-                
+
+        /*        
         HashSet<Integer> set = new HashSet<Integer>();        
         for (int i = 0; i < a.size(); i++) {
             set.add(a.get(i));
@@ -24,6 +26,20 @@ public class Solution {
                     temp++;
                 }
             }
+            if (temp > result) {
+                result = temp;
+            }
+        }
+        */
+
+        int[] freq = new int[100 + 1];
+
+        for (int i : a) {
+            freq[i]++;
+        }
+
+        for (int i = 0; i < 100; i++) {
+            int temp = freq[i] + freq[i + 1];
             if (temp > result) {
                 result = temp;
             }
