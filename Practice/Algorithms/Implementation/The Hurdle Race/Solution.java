@@ -34,7 +34,7 @@ public class Solution {
 
         int result = hurdleRace(k, height);
 
-        System.out.println(String.valueOf(result);        
+        System.out.println(String.valueOf(result));        
 
         in.close();
     }
