@@ -22,3 +22,4 @@
 |19|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java)|
 |20|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java)|
 |21|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Utopian%20Tree/Solution.java)|
+|22|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Angry%20Professor/Solution.java)|
