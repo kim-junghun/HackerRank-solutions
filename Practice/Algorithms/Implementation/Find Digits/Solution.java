@@ -1,13 +1,14 @@
 // https://www.hackerrank.com/challenges/find-digits/problem
 
-import java.util.ArrayList;
-import java.util.List;
+// import java.util.ArrayList;
+// import java.util.List;
 import java.util.Scanner;
 
 public class Solution {
 
     static int findDigits(int n) {
         int result = 0;
+        /*
         List<Integer> list = new ArrayList<Integer>();
         int i = n;
 
@@ -20,6 +21,16 @@ public class Solution {
             if (iter == 0) { continue; }
             if (n % iter == 0) { result++; }
         }
+        */
+        int i = n;
+
+        while (i != 0) {
+            int digit = i % 10;
+            i = i / 10;
+            if (digit == 0) { continue; }
+            if (n % digit == 0) { result++; }
+        }
+        
         return result;
     }
 
