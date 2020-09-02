@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Solution {
 
     static int squares(int a, int b) {
+        /*
         int result = 0;
         int root = 1;
 
@@ -16,6 +17,9 @@ public class Solution {
         }
         
         return result;
+        */
+
+        return (int) (Math.floor(Math.sqrt(b)) - Math.ceil(Math.sqrt(a))) + 1;
     }
 
     public static void main(String[] args) {
