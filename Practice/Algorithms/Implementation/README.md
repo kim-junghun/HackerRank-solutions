@@ -32,3 +32,4 @@
 |29|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Find%20Digits/Solution.java)|
 |30|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java)|
 |31|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Append%20and%20Delete/Solution.java)|
+|32|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java)|
