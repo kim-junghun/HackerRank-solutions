@@ -8,5 +8,6 @@
 |Algorithms|[Strings](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Algorithms/Strings)|
 |Algorithms|[Sorting](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Algorithms/Sorting)|
 |Algorithms|[Search](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Algorithms/Search)|
+|Algorithms|[Greedy](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Algorithms/Greedy)|
 |Java|[Introduction](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Java/Introduction)|
 |Java|[Strings](https://github.com/kim-junghun/HackerRank-solutions/tree/master/Practice/Java/Strings)|
