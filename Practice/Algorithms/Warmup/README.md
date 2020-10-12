@@ -1,7 +1,7 @@
 ## Algorithms/Warmup
 |순서|문제|풀이|
 |---|---|---|
-|1|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/Solve%20Me%20First/Solution.java)|
+|1|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/Solve%20Me%20First/Solution.java)<br>[Solution.py](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/Solve%20Me%20First/Solution.py)|
 |2|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/Simple%20Array%20Sum/Solution.java)|
 |3|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/Compare%20the%20Triplets/Solution.java)|
 |4|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Solution.java](https://github.com/kim-junghun/HackerRank-solutions/blob/master/Practice/Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.java)|
