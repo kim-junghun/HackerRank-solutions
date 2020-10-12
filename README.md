@@ -10,5 +10,6 @@
 |Algorithms|[Search](./Practice/Algorithms/Search)|
 |Algorithms|[Greedy](./Practice/Algorithms/Greedy)|
 |Algorithms|[Dynamic Programming](./Practice/Algorithms/Dynamic%20Programming)|
+|Algorithms|[Bit Manipulation](./Practice/Algorithms/Bit%20Manipulation)|
 |Java|[Introduction](./Practice/Java/Introduction)|
 |Java|[Strings](./Practice/Java/Strings)|
