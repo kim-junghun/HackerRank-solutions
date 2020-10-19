@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/lonely-integer/problem
+
 import java.util.Scanner;
 
 public class Solution {
