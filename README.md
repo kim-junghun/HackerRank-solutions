@@ -12,5 +12,6 @@
 |Algorithms|[Dynamic Programming](./Practice/Algorithms/Dynamic%20Programming)|
 |Algorithms|[Bit Manipulation](./Practice/Algorithms/Bit%20Manipulation)|
 |Algorithms|[Recursion](./Practice/Algorithms/Recursion)|
+|Algorithms|[Game Theory](./Practice/Algorithms/Game%20Theory)|
 |Java|[Introduction](./Practice/Java/Introduction)|
 |Java|[Strings](./Practice/Java/Strings)|
