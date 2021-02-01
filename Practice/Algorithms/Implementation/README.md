@@ -33,3 +33,4 @@
 |30|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution.java](./Extra%20Long%20Factorials/Solution.java)|
 |31|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[Solution.java](./Append%20and%20Delete/Solution.java)|
 |32|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[Solution.java](./Sherlock%20and%20Squares/Solution.java)|
+|33|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[Solution.java](./Library%20Fine/Solution.java)|
